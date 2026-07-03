@@ -1,0 +1,14 @@
+h1{
+    font-size: 30px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-left: 25px;
+}
+.img{
+    width: 400px;
+    height: 350px;
+}
